@@ -8,7 +8,9 @@ namespace CodeOne.Models
     {
 
         [Key]
+        [Display(Name = "Province Code")]
         public string ProvinceCode { get; set; }
+        [Display(Name = "Province")]
         public string ProvinceName { get; set; }
 
 
