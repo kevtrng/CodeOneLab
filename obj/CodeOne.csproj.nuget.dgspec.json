@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/CodeOne/CodeOne.csproj": {}
+    "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/lab6/CodeOne/CodeOne.csproj": {}
   },
   "projects": {
-    "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/CodeOne/CodeOne.csproj": {
+    "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/lab6/CodeOne/CodeOne.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/CodeOne/CodeOne.csproj",
+        "projectUniqueName": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/lab6/CodeOne/CodeOne.csproj",
         "projectName": "CodeOne",
-        "projectPath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/CodeOne/CodeOne.csproj",
+        "projectPath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/lab6/CodeOne/CodeOne.csproj",
         "packagesPath": "/Users/kev/.nuget/packages/",
-        "outputPath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/CodeOne/obj/",
+        "outputPath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/lab6/CodeOne/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kev/.nuget/NuGet/NuGet.Config"

@@ -1,5 +1,5 @@
 {
-  "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/CodeOne/CodeOne.csproj",
+  "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/lab6/CodeOne/CodeOne.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15619,98 +15619,98 @@
   "RootNamespace": "CodeOne",
   "Documents": [
     {
-      "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/CodeOne/Views/Cities/Index.cshtml",
-      "TargetPath": "Views\\Cities\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/CodeOne/Views/Provinces/Create.cshtml",
-      "TargetPath": "Views\\Provinces\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/CodeOne/Views/Shared/_LoginPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/CodeOne/Views/Cities/Delete.cshtml",
-      "TargetPath": "Views\\Cities\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/CodeOne/Views/Cities/Edit.cshtml",
-      "TargetPath": "Views\\Cities\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/CodeOne/Views/Cities/Details.cshtml",
-      "TargetPath": "Views\\Cities\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/CodeOne/Views/Provinces/Details.cshtml",
+      "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/lab6/CodeOne/Views/Provinces/Details.cshtml",
       "TargetPath": "Views\\Provinces\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/CodeOne/Views/Home/Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/CodeOne/Views/_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/CodeOne/Views/Provinces/Index.cshtml",
+      "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/lab6/CodeOne/Views/Provinces/Index.cshtml",
       "TargetPath": "Views\\Provinces\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/CodeOne/Views/Shared/_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/CodeOne/Views/Home/Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/CodeOne/Views/Shared/Error.cshtml",
+      "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/lab6/CodeOne/Views/Shared/Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/CodeOne/Views/Cities/Create.cshtml",
-      "TargetPath": "Views\\Cities\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/CodeOne/Areas/Identity/Pages/_ViewStart.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/CodeOne/Views/Provinces/Delete.cshtml",
-      "TargetPath": "Views\\Provinces\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/CodeOne/Views/Provinces/Edit.cshtml",
+      "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/lab6/CodeOne/Views/Provinces/Edit.cshtml",
       "TargetPath": "Views\\Provinces\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/CodeOne/Views/Shared/_ValidationScriptsPartial.cshtml",
+      "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/lab6/CodeOne/Views/_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/lab6/CodeOne/Views/Shared/_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/lab6/CodeOne/Views/Shared/_LoginPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/lab6/CodeOne/Views/Provinces/Delete.cshtml",
+      "TargetPath": "Views\\Provinces\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/lab6/CodeOne/Views/Cities/Delete.cshtml",
+      "TargetPath": "Views\\Cities\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/lab6/CodeOne/Views/_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/lab6/CodeOne/Views/Shared/_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/CodeOne/Views/_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/lab6/CodeOne/Views/Cities/Details.cshtml",
+      "TargetPath": "Views\\Cities\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/lab6/CodeOne/Views/Cities/Index.cshtml",
+      "TargetPath": "Views\\Cities\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/lab6/CodeOne/Views/Home/Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/lab6/CodeOne/Views/Cities/Create.cshtml",
+      "TargetPath": "Views\\Cities\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/lab6/CodeOne/Views/Provinces/Create.cshtml",
+      "TargetPath": "Views\\Provinces\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/lab6/CodeOne/Views/Cities/Edit.cshtml",
+      "TargetPath": "Views\\Cities\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/lab6/CodeOne/Areas/Identity/Pages/_ViewStart.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/lab6/CodeOne/Views/Home/Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],

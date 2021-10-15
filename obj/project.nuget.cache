@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GRk2X/gLtX8LhZ4vdixpCrrCVGG/f4M8Ka4/atsUC5ftjvY/aujlJ3Ld+gRXpPdlJMenk7LexE3508mda9yfzw==",
+  "dgSpecHash": "nXtA5S+Zv9cnuly0//wqlGEQ3EIcllJdRrM+6wxvPjq/unOQJTyxV9a2dP/FwuqSr99E1Cshorv4dlGCy+DvbA==",
   "success": true,
-  "projectFilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/CodeOne/CodeOne.csproj",
+  "projectFilePath": "/Users/kev/Documents/BCITTerm3/COMP3514/Labs/lab6/CodeOne/CodeOne.csproj",
   "expectedPackageFiles": [
     "/Users/kev/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/kev/.nuget/packages/microsoft.aspnetcore.cryptography.internal/5.0.10/microsoft.aspnetcore.cryptography.internal.5.0.10.nupkg.sha512",
