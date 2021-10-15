@@ -6,13 +6,14 @@ namespace CodeOne.Models
 {
     public class City
     {
-        public int CityId {get; set;}
-        public string CityName {get; set;}
-        public int Population {get; set;}
-		[Display(Name="Province Code")]
-        public string ProvinceCode {get; set;}
+        public int CityId { get; set; }
+        [Display(Name = "City")]
+        public string CityName { get; set; }
+        public int Population { get; set; }
+        [Display(Name = "Province Code")]
+        public string ProvinceCode { get; set; }
         [ForeignKey("ProvinceCode")]
-		[JsonIgnore]
-        public Province Province {get; set;}
+        [JsonIgnore]
+        public Province Province { get; set; }
     }
 }
