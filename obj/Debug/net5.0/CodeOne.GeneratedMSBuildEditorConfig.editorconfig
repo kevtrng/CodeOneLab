@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = CodeOne
-build_property.ProjectDir = /Users/kev/Documents/BCIT Term 3/COMP3514/Labs/CodeOne/
+build_property.ProjectDir = /Users/kev/Documents/BCITTerm3/COMP3514/Labs/CodeOne/

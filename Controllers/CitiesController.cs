@@ -22,7 +22,8 @@ namespace CodeOne.Controllers
         // GET: Cities
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Cities.ToListAsync());
+            var applicationDbContext = _context.Cities.Include(c => c.Province);
+            return View(await applicationDbContext.ToListAsync());
         }
 
         // GET: Cities/Details/5
@@ -34,6 +35,7 @@ namespace CodeOne.Controllers
             }
 
             var city = await _context.Cities
+                .Include(c => c.Province)
                 .FirstOrDefaultAsync(m => m.CityId == id);
             if (city == null)
             {
@@ -46,6 +48,7 @@ namespace CodeOne.Controllers
         // GET: Cities/Create
         public IActionResult Create()
         {
+            ViewData["ProvinceCode"] = new SelectList(_context.Provinces, "ProvinceCode", "ProvinceCode");
             return View();
         }
 
@@ -62,6 +65,7 @@ namespace CodeOne.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
+            ViewData["ProvinceCode"] = new SelectList(_context.Provinces, "ProvinceCode", "ProvinceCode", city.ProvinceCode);
             return View(city);
         }
 
@@ -78,6 +82,7 @@ namespace CodeOne.Controllers
             {
                 return NotFound();
             }
+            ViewData["ProvinceCode"] = new SelectList(_context.Provinces, "ProvinceCode", "ProvinceCode", city.ProvinceCode);
             return View(city);
         }
 
@@ -113,6 +118,7 @@ namespace CodeOne.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
+            ViewData["ProvinceCode"] = new SelectList(_context.Provinces, "ProvinceCode", "ProvinceCode", city.ProvinceCode);
             return View(city);
         }
 
